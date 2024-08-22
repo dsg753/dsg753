@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dsg753
+- 👋 Hi, My name is Georgi Stanchev ("@dsg753") 
 - 👀 I’m interested in Programing  , Coding , Frontend Backend Development , Linux , Windows , Networking , Web Development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on different projects 
