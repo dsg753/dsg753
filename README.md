@@ -5,6 +5,7 @@
 - 📫 How to reach me :
 - email : dsg1varna@gmail.com
 - GitHub: @dsg753
+- tweeter: @dsg753 
 <!---
 dsg753/dsg753 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
