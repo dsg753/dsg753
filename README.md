@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Georgi Stanchev ("@dsg753") 
 - 👀 I’m interested in Programing  , Coding , Frontend Backend Development , Linux , Windows , Networking , Web Development
-- 🌱 I’m currently learning Python , Gradle , Groovy
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on different projects , full time part time job
 - 📫 How to reach me :
 - email : dsg1varna@gmail.com
