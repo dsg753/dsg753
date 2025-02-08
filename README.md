@@ -1,12 +1,26 @@
-- 👋 Hi, My name is Georgi Stanchev ("@dsg753") 
-- 👀 I’m interested in Programing  , Coding , Frontend Backend Development , Linux , Windows , Networking , Web Development
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on different projects 
-- 📫 How to reach me :
-- email : dsg1varna@gmail.com
-- GitHub: @dsg753
-- Twitter: @dsg753 
-<!---
-dsg753/dsg753 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👋 About Me
+Hi, I'm **Georgi Stanchev** (a.k.a. **@dsg753**), a passionate programmer and aspiring software developer. I enjoy solving problems through coding, exploring both **frontend** and **backend development**, and constantly expanding my knowledge in the tech world.
+### 💡 What I’m Interested In
+- Programming and software development
+- Building dynamic and responsive websites
+- **Linux** and **Windows** systems, including networking and system administration
+- Exploring new technologies and frameworks
+
+### 🌱 What I’m Currently Up To
+- Learning and mastering **Python** to create scalable applications
+- Expanding my skills in **web development**, both frontend and backend
+- Exploring collaboration with other developers and contributing to open-source projects
+
+### 🤝 How I Can Collaborate/Help
+I'm open to collaborating on:
+- **Web development projects**: Whether it's frontend or backend work
+- **Open-source contributions**: I'm interested in building impactful tools
+- **Python-related projects**: Automations, scripting, or web apps
+
+### 📫 Let’s Connect:
+- **Email**: [dsg1varna@gmail.com]()
+- **GitHub**: [@dsg753]()
+- **Twitter**: [@dsg753]()
+
+### 🚀 Career Goals
+I'm seeking opportunities to grow as a developer, contribute to impactful projects, and work on technologies that inspire and challenge me. Whether it’s full-time, freelance, or collaborative projects, I’m ready to bring creativity and enthusiasm to every line of code.
