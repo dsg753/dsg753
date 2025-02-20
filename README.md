@@ -15,8 +15,7 @@ Hi, I'm **Georgi Stanchev** (a.k.a. **@dsg753**), a passionate programmer and as
 I'm open to collaborating on:
 - **Web development projects**: Whether it's frontend or backend work
 - **Open-source contributions**: I'm interested in building impactful tools
-- **Python-related projects**: Automations, scripting, or web apps
-
+- **Python-related projects**: AI, Automations, machine learning, scripting, web apps
 ### 📫 Let’s Connect:
 - **Email**: [dsg1varna@gmail.com]()
 - **GitHub**: [@dsg753]()
