@@ -1,25 +1,91 @@
-### 👋 About Me
-Hi, I'm **Georgi Stanchev** (a.k.a. **@dsg753**), a passionate programmer and aspiring software developer. I enjoy solving problems through coding, exploring both **frontend** and **backend development**, and constantly expanding my knowledge in the tech world.
-### 💡 What I’m Interested In
-- Programming and software development
-- Building dynamic and responsive websites
-- **Linux** and **Windows** systems, including networking and system administration
-- Exploring new technologies and frameworks
+👋 About Me
 
-### 🌱 What I’m Currently Up To
-- Learning and mastering **Python** to create scalable applications
-- Expanding my skills in **web development**, both frontend and backend
-- Exploring collaboration with other developers and contributing to open-source projects
+Hi, I'm Georgi Stanchev (@dsg753), a cybersecurity enthusiast and aspiring security professional. I'm passionate about defensive and offensive security, network protection, and ethical hacking. My mission is to build a career in cybersecurity where I can help organizations defend against threats and vulnerabilities.
 
-### 🤝 How I Can Collaborate/Help
-I'm open to collaborating on:
-- **Web development projects**: Whether it's frontend or backend work
-- **Open-source contributions**: I'm interested in building impactful tools
-- **Python-related projects**: AI, Automations, machine learning, scripting, web apps
-### 📫 Let’s Connect:
-- **Email**: [dsg1varna@gmail.com]()
-- **GitHub**: [@dsg753]()
-- **Twitter**: [@dsg753]()
 
-### 🚀 Career Goals
-I'm seeking opportunities to grow as a developer, contribute to impactful projects, and work on technologies that inspire and challenge me. Whether it’s full-time, freelance, or collaborative projects, I’m ready to bring creativity and enthusiasm to every line of code.
+🔒 Cybersecurity & Technical Expertise
+
+Current Focus:
+
+
+Ethical Hacking & Penetration Testing – Cisco Networking Academy Ethical Hacker certified
+Network Security – Deep knowledge of networking concepts, protocols, and security best practices
+Python Programming – Proficient in Python fundamentals; actively building security automation tools and scripts
+Lab Work & Practical Training – Hands-on experience with security tools and penetration testing labs
+Linux & Windows System Administration – Comfortable with both environments, including hardening and network configuration
+
+
+Skills & Technologies:
+
+
+Penetration testing and vulnerability assessment
+Network analysis and packet inspection
+Python scripting for security automation
+Linux/Windows system administration and security
+Networking protocols and security architectures
+
+
+
+🎓 Certifications & Training
+
+✅ Completed:
+
+
+Cisco Networking Academy – Ethical Hacker Certification
+Python Fundamentals
+Network Administration & Security Concepts
+
+
+🚀 In Progress:
+
+
+PortSwigger Advanced Labs & Modules
+Additional security certifications and hands-on penetration testing courses
+
+
+
+💼 What I'm Currently Doing
+
+
+🔍 Mastering penetration testing tools and methodologies (Metasploit, Burp Suite, Wireshark, etc.)
+🛡️ Developing Python scripts for security automation and vulnerability detection
+📚 Completing advanced security labs and real-world scenario training
+🤝 Contributing to security-focused open-source projects
+💪 Building a portfolio of security projects to demonstrate expertise
+
+
+
+🤝 How I Can Collaborate
+
+I'm actively seeking opportunities in:
+
+
+Cybersecurity Projects – Penetration testing, vulnerability assessment, and security research
+Security Automation – Python-based tools for threat detection and remediation
+Defensive & Offensive Security – Network defense, incident response, and ethical hacking
+Open-Source Security Tools – Contributing to security-focused projects
+Mentorship & Learning – Working with experienced professionals to accelerate my growth
+
+
+
+🚀 Career Goals
+
+I'm actively seeking:
+
+
+Entry-level to junior positions in cybersecurity (Security Analyst, Penetration Tester, SOC Analyst, Security Engineer)
+Opportunities to work on real-world security challenges
+A role where I can contribute immediately and continue growing in the security field
+Mentorship from experienced security professionals
+
+
+I'm ready to bring technical expertise, dedication, and enthusiasm to help organizations strengthen their security posture.
+
+
+📫 Let's Connect
+
+
+Email: dsg1varna@gmail.com
+GitHub: @dsg753
+
+
